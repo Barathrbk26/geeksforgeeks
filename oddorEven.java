@@ -16,3 +16,5 @@ public static void main(String[] args){
 
 }
 }
+
+https://www.geeksforgeeks.org/problems/odd-or-even3618/1
